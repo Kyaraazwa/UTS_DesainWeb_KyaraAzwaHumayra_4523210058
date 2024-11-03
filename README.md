@@ -6,10 +6,10 @@ halaman kontak brand dan kolom untuk menerima masukan, dilengkapi dengan footer,
 Untuk membuat dan mendesain website ini saya menggunakkan html dan css. Sedangkan, interaksi untuk pengguna menggunakan javascript, seperti tampilan navbar, 
 close menu ketika tombol close diklik, close menu ketika navbar diklik, saya jga menggunakan inisialisasi swiper, serta untuk responsif breakpoint.
 
-![image alt](image_url)
+
 ![image alt](https://github.com/Kyaraazwa/UTS_DesainWeb_KyaraAzwaHumayra_4523210058/blob/cb7a96317bf030de7f2e70d7ebaf71718bab490a/Home-Screenshot.png)
-![image alt](image_url)
-![image alt](image_url)
-![image alt](image_url)
-![image alt](image_url)
-![image alt](image_url)
+![image alt](https://github.com/Kyaraazwa/UTS_DesainWeb_KyaraAzwaHumayra_4523210058/blob/cb7a96317bf030de7f2e70d7ebaf71718bab490a/About-Screenshot.png)
+![image alt](ihttps://github.com/Kyaraazwa/UTS_DesainWeb_KyaraAzwaHumayra_4523210058/blob/cb7a96317bf030de7f2e70d7ebaf71718bab490a/Product-Screenshot.png)
+![image alt](https://github.com/Kyaraazwa/UTS_DesainWeb_KyaraAzwaHumayra_4523210058/blob/cb7a96317bf030de7f2e70d7ebaf71718bab490a/Testimonials-Screenshot.png)
+![image alt](https://github.com/Kyaraazwa/UTS_DesainWeb_KyaraAzwaHumayra_4523210058/blob/cb7a96317bf030de7f2e70d7ebaf71718bab490a/Gallery-Screenshot.png )
+![image alt](https://github.com/Kyaraazwa/UTS_DesainWeb_KyaraAzwaHumayra_4523210058/blob/cb7a96317bf030de7f2e70d7ebaf71718bab490a/Contact-Screenshot.png )
